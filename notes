@@ -1,0 +1,31 @@
+diferencia entre python2 y python3, es cuando se tratan los valores de
+texto y de bytes
+python -c command
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+
+
+Al especificar 
+#!/usr/bin/python3
+luego hacer un 
+chmod +x 
+finalmente ejecutar el script
+./script  => se ejecutara con python3
+
+__name__ identifica cuando el archivo se 
+ejecuta directamente o se importa de un modulo 
+
+
+al ingresar un \
+example 
+x = 1 + 2 \
+	+ 3
+debe comenzar con un operador o si no ocurre un error
+
+
+python de manera interactiva
+python3
+>> help(print) => documentation print
+>> dir(print) => muestra las funciones
+
+
+
